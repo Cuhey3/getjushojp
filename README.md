@@ -18,10 +18,12 @@
 
 ## ビルドを行わない場合
 
-1. このプロジェクト内にあるprogramフォルダとその中身のtarget/GetJushoJP-1.0-SNAPSHOT-jar-with-dependencies.jarをダウンロードします。
-2. 郵便番号更新.batをダウンロードして、programフォルダと同じ階層に配置します。
-3. 郵便番号更新.batをダブルクリックで起動します。
-4. programフォルダ内にzenkoku.sqlite3ができたら完了です。
+1. プロジェクトをダウンロードします。[プロジェクトのトップページ](https://github.com/Cuhey3/getjushojp/ "プロジェクトトップページ")にある「Download ZIP」ボタンなどを押すとプロジェクトがダウンロードできます。
+2. 必要なのは、programフォルダ、programフォルダの中身のGetJushoJP-1.0-SNAPSHOT-jar-with-dependencies.jar、および郵便番号更新.batです。
+3. 郵便番号更新.batが文字化けしている場合があります。郵便番号更新.batにリネームしてください。
+4. programフォルダを、データベースを使いたい他のプログラムのprogramフォルダと統合します。
+5. 郵便番号更新.batを、データベースを使いたい他のプログラムのトップ階層へコピーします。
+6. 以降は「使い方（2回目以降）」を参照してください。
 
 ## 動作環境
 
