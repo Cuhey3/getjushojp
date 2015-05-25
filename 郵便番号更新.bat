@@ -1,9 +1,9 @@
-# ã“ã®batãƒ•ã‚¡ã‚¤ãƒ«ã«ã¤ã„ã¦ã¯ä»¥ä¸‹ã‚’ãŠèª­ã¿ãã ã•ã„ã€‚
+# ‚±‚Ìbatƒtƒ@ƒCƒ‹‚É‚Â‚¢‚Ä‚ÍˆÈ‰º‚ğ‚¨“Ç‚İ‚­‚¾‚³‚¢B
 # https://github.com/Cuhey3/getjushojp/blob/master/README.md
 # 
-# ã“ã®batãƒ•ã‚¡ã‚¤ãƒ«ã‚’å®Ÿè¡Œã™ã‚‹ã«ã¯ã€
-# batãƒ•ã‚¡ã‚¤ãƒ«ã¨åŒéšå±¤ã«programãƒ•ã‚©ãƒ«ãƒ€ãŒã‚ã‚‹ã“ã¨ã€
-# programãƒ•ã‚©ãƒ«ãƒ€ã®ä¸­ã«GetJushoJP-1.0-SNAPSHOT-jar-with-dependencies.jarãŒã‚ã‚‹ã“ã¨ã€
-# ã•ã‚‰ã«Java1.7ä»¥é™ãŒã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
+# ‚±‚Ìbatƒtƒ@ƒCƒ‹‚ğÀs‚·‚é‚É‚ÍA
+# batƒtƒ@ƒCƒ‹‚Æ“¯ŠK‘w‚ÉprogramƒtƒHƒ‹ƒ_‚ª‚ ‚é‚±‚ÆA
+# programƒtƒHƒ‹ƒ_‚Ì’†‚ÉGetJushoJP-1.0-SNAPSHOT-jar-with-dependencies.jar‚ª‚ ‚é‚±‚ÆA
+# ‚³‚ç‚ÉJava1.7ˆÈ~‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚·B
 
 java -jar program/GetJushoJP-1.0-SNAPSHOT-jar-with-dependencies.jar
